@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b49a5948-21a0-44c3-92fc-20b626d94dc2",
+    "monto": 1000,
+    "cuenta_destino": 890,
+    "cuenta_origen": 10,
+    "cliente_id": "3ae3b92c-af90-40b4-a5de-8d8f1bb4096e",
+    "cuenta_id": "13eaa861-d3f1-43eb-b884-4ab396a82318"
+  },
+  {
+    "id": "79864a10-2446-42f5-ab6d-6867f08eca65",
+    "monto": 46,
+    "cuenta_destino": 10,
+    "cuenta_origen": 890,
+    "cliente_id": "3ae3b92c-af90-40b4-a5de-8d8f1bb4096e",
+    "cuenta_id": "87dd23fd-53b1-4f2d-9dd3-0c8aeb3c49f3"
+  },
+  {
+    "id": "5434ef59-38c6-4f72-bc52-644d3250840b",
+    "monto": 191,
+    "cuenta_destino": 1000,
+    "cuenta_origen": 10,
+    "cliente_id": "3ae3b92c-af90-40b4-a5de-8d8f1bb4096e",
+    "cuenta_id": "b550e852-9e1b-4029-b2df-52c07d1fd6d6"
+  }
+]

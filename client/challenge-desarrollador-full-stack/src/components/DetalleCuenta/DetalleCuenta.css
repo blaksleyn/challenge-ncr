@@ -1,0 +1,13 @@
+.detalleContainer {
+  text-align: center;
+}
+.LinkTrans {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin: 20px 30px;
+  box-shadow: 0 10px 30px rgba(#000, #000, #000, 1);
+}

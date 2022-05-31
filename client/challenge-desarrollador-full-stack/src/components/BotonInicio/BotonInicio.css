@@ -1,0 +1,15 @@
+.boton {
+  margin-top: 20px;
+}
+.boton button {
+  border: none;
+  background-color: greenyellow;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 9px;
+}
+.containerboton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

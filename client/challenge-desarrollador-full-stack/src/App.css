@@ -1,0 +1,14 @@
+.app {
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #000;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  min-height: 50vh;
+}
+.header {
+  background-color: greenyellow;
+}
+.logo {
+  max-width: 240px;
+}
